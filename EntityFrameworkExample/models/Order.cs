@@ -1,4 +1,4 @@
-﻿namespace EntityFrameworkExample;
+﻿namespace EntityFrameworkExample.models;
 
 public class Order
 {
